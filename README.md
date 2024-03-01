@@ -14,6 +14,6 @@
 [例](https://github.com/denson33/plugin_/assets/157567584/2a8bb3f2-b2df-402b-8b8b-f4ea9d171c5a)
 
 # Author
-・作成者　G.Tamura
+・作成者　G.Tamura<br>
 ・X(旧Twitter)(https://twitter.com/gentaso_study)
 
