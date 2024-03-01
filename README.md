@@ -15,5 +15,5 @@
 
 # Author
 ・作成者　G.Tamura<br>
-・X(旧Twitter)(https://twitter.com/gentaso_study)
+・X(旧Twitter) https://twitter.com/gentaso_study
 
