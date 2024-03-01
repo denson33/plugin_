@@ -6,8 +6,8 @@
 
 # Requirement
 
-・Java版　MineCraft Version1.20.4<br>
-・Spigot
+・MineCraft<br>
+・Spigotn　1.20.4
 
 # Demo
 
